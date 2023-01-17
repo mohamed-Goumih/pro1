@@ -2,3 +2,10 @@ body{
     background-color: blueviolet;
     font-size: 100px;
 }
+
+h2{
+    padding: 5px;
+    background-color: yellow;
+    color: brown;
+    border-radius: 12px;
+}
